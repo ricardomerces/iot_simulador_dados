@@ -1,0 +1,8 @@
+{
+	"broker" : "postman.cloudmqtt.com",
+	"port": 18872,
+	"topico": "labs/mensagem",
+	"intervalo_publicacao":1,
+	"usuario":"xxxxx",
+	"senha":"xxxxx"
+}
