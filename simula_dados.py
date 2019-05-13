@@ -1,6 +1,6 @@
 ### Gerador de Dados (IoT) v1.0
 ### Ricardo Merces - Twitter: r_merces
-### https://github.com/ricardomerces/simulador_dados_iot.git
+### https://github.com/ricardomerces/iot_simulador_dados.git
 
 
 import paho.mqtt.client as paho
